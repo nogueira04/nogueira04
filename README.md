@@ -8,7 +8,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nogueira04&show_icons=true&locale=en&layout=compact&theme=dark&hide=makefile,cmake" alt="nogueira04" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&locale=en&theme=dark" alt="nogueira04" width="100"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&locale=en&theme=dark" alt="nogueira04" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nogueira04&theme=dark" alt="nogueira04" /></p>
 
