@@ -8,12 +8,8 @@
 
 <hr/>
 
-<div align="left">
 ![nogueira04's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&theme=transparent)
-</div>
 
-<div align="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira04&layout=compact&theme=transparent&hide=cmake,makefile)
-</div>
 
 <hr/>
