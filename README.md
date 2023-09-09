@@ -8,8 +8,10 @@
 
 <hr/>
 
-![nogueira04's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&theme=transparent)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nogueira04&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira04&layout=compact&theme=transparent&hide=cmake,makefile" alt="Top Languages" style="width: 48%;">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueira04&layout=compact&theme=transparent&hide=cmake,makefile)
 
 <hr/>
